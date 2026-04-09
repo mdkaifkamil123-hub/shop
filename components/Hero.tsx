@@ -19,7 +19,7 @@ export function Hero() {
           
           <div className="space-y-6 animate-in fade-in slide-in-from-bottom-8 duration-700 delay-100">
             <h1 className="text-5xl md:text-8xl font-black text-slate-900 dark:text-white leading-[1] tracking-tight">
-              See the World in <br /> 
+              Best Optical: <br className="hidden md:block" />
               <span className="text-transparent bg-clip-text bg-gradient-to-br from-indigo-700 via-blue-600 to-indigo-800 dark:from-indigo-400 dark:to-blue-400">Pure Clarity.</span>
             </h1>
             

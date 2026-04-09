@@ -88,7 +88,7 @@ export function Navbar() {
                 className="rounded-full w-10 h-10 text-emerald-600 dark:text-emerald-400 bg-emerald-50 dark:bg-emerald-500/10 hover:bg-emerald-100 dark:hover:bg-emerald-500/20 hover:text-emerald-700 dark:hover:text-emerald-300 transition-all duration-300 border border-emerald-100 dark:border-emerald-500/20" 
                 asChild
              >
-                <a href="https://wa.me/1234567890" target="_blank" rel="noopener noreferrer">
+                <a href="https://wa.me/918539972725" target="_blank" rel="noopener noreferrer">
                     <WhatsappLogo className="w-5 h-5" weight="bold" />
                 </a>
              </Button>
@@ -96,7 +96,7 @@ export function Navbar() {
                className="bg-indigo-950 dark:bg-white hover:bg-indigo-900 dark:hover:bg-indigo-50 text-white dark:text-indigo-950 rounded-full px-6 font-semibold shadow-lg shadow-indigo-900/20 dark:shadow-white/10 transition-all duration-300 hover:translate-y-[-1px] active:translate-y-[0px]"
                asChild
              >
-               <a href="tel:+1234567890">
+               <a href="tel:+918539972725">
                  <Phone className="w-4 h-4 mr-2" weight="fill" />
                  Call Us
                </a>
@@ -133,13 +133,13 @@ export function Navbar() {
               ))}
               <div className="grid grid-cols-2 gap-3 pt-4 border-t border-slate-100 dark:border-slate-800 mt-2">
                   <Button variant="outline" className="justify-center gap-2 py-6 rounded-2xl text-emerald-600 dark:text-emerald-400 border-emerald-100 dark:border-emerald-500/20 hover:bg-emerald-50 dark:hover:bg-emerald-500/10 hover:border-emerald-200 dark:hover:border-emerald-500/30 font-bold" asChild>
-                    <a href="https://wa.me/1234567890" target="_blank" rel="noopener noreferrer">
+                    <a href="https://wa.me/918539972725" target="_blank" rel="noopener noreferrer">
                         <WhatsappLogo className="w-5 h-5" weight="bold" />
                         WhatsApp
                     </a>
                   </Button>
                   <Button className="py-6 rounded-2xl bg-indigo-950 dark:bg-white hover:bg-indigo-900 dark:hover:bg-indigo-50 text-white dark:text-indigo-950 shadow-md shadow-indigo-900/20 dark:shadow-white/10 font-bold" asChild>
-                    <a href="tel:+1234567890">
+                    <a href="tel:+918539972725">
                       <Phone className="w-5 h-5 mr-2" weight="bold" />
                       Call Us
                     </a>
