@@ -60,8 +60,7 @@ export function ContactSection() {
                 </div>
                 <div>
                   <h4 className="font-bold text-slate-900">Opening Hours</h4>
-                  <p className="text-slate-600">Mon - Sat: 10:00 AM - 09:00 PM</p>
-                  <p className="text-slate-600">Sun: 11:00 AM - 05:00 PM</p>
+                  <p className="text-slate-600">Mon - Sun: 10:00 AM - 08:00 PM</p>
                 </div>
               </div>
             </div>
